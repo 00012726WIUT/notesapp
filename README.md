@@ -27,4 +27,4 @@ node app
 
 
 ### Link to the repository of this application on github
-https://github.com/00012726WIUT/notesapp.git 
+[to repo!](https://github.com/00012726WIUT/notesapp.git )
