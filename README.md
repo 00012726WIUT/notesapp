@@ -6,7 +6,7 @@ To run it in localhost you should do following steps
 
 1.  Clone this repo
 ```bash
-git clone (https://github.com/00012726WIUT/notesapp.git)  
+git clone https://github.com/00012726WIUT/notesapp.git  
 ```
 
 2. Install the dependencies 
