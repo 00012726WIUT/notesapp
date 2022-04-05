@@ -1,6 +1,6 @@
 # Notes! Web Application
 
-### Notes! is a web application which has functions like a deleting, creating, viewing
+### Notes! is a web application which has functions like a creating, viewing notes
 
 To run it in localhost you should do following steps
 
