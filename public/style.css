@@ -8,9 +8,6 @@ body {
     margin: auto;
     border: 3px dotted black;
     border-top: 0px;
-    border-radius: 30px;
-    border-top-left-radius: 0px;
-    border-top-RIGHT-radius: 0px;
     padding-bottom: 30PX;
 }
 * {
@@ -56,15 +53,9 @@ a:hover {
     padding: 5px;
     border: 2px solid black;
     margin: 5px;
-    border-radius: 10px;
     font-size: larger;
     font-weight: 900;
     transition: 0.4s ease;
-}
-.btn:hover {
-    transition: 0.4s ease;
-    padding: 8px 5px;
-    border-radius: 5px;
 }
 
 
@@ -177,7 +168,6 @@ textarea {
     margin: 5px;
     padding: 2px 5px;
     transition: 0.4s ease;
-    border-radius: 50%;
 }
 
 .dlt:hover {
@@ -208,7 +198,6 @@ textarea {
     font-weight: 700;
     background-color: white;
     border: 2px solid  black;
-    border-radius: 10px;
     padding: 5px 10px;
     float: right;
     margin-top: 20px;
