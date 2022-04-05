@@ -1,0 +1,9 @@
+extends layout 
+
+block content
+    div.bck 
+        a.back(href="/add") Create a note!
+    
+    div.box
+        h1.title #{ note.title }
+        p.detail #{ note.detail }    

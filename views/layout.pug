@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+    head
+        title Notes! Web App
+        link(rel="stylesheet", href="/static/style.css")
+    body
+        header.navbar 
+            h1.logotxt 
+                a.btnlogo(href="/") Notes! 
+            nav.nav 
+                a.btn(href="/notes") Saved notes
+                a.btn(href="/archive") Archived notes 
+        block content   

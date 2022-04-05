@@ -1,0 +1,13 @@
+extends layout.pug 
+
+block content 
+    div.bck 
+        a.back(href="/add") Create a note!
+    div.box
+        
+        h1.svdttl Saved Notes    
+
+        each note in notes  
+            div.note-wrapper 
+                a.note(href=`/notes/${ note.id }`) #{ note.title } 
+                a.dlt(href="#") ✕

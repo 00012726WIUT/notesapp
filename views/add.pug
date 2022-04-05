@@ -1,0 +1,20 @@
+extends layout.pug 
+
+block content
+    div.box
+        h1 Create a note
+
+        if error 
+            p.error I will not create empty note! :(
+                       
+        if succes 
+            p.succes Your note is saved :)
+
+        form.form(action="/add" method='post')
+            label Title 
+            input.input(type="text" name='title') 
+
+            label Details 
+            textarea.input(type='text' name="detail")
+
+            button.svbtn    Save note  
