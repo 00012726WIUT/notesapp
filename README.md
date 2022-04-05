@@ -6,7 +6,7 @@ To run it in localhost you should do following steps
 
 1.  Clone this repo
 ```bash
-git clone https://github.com/00012726WIUT/noteswebapp.git  
+git clone https://github.com/00012726WIUT/notesapp.git  
 ```
 
 2. Install the dependencies 
@@ -27,4 +27,4 @@ node app
 
 
 ### Link to the repository of this application on github
-https://github.com/00012726WIUT/noteswebapp 
+https://github.com/00012726WIUT/notesapp.git 
