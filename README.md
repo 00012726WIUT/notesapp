@@ -28,3 +28,11 @@ node app
 
 ### Link to the repository of this application on github
 [to repo!](https://github.com/00012726WIUT/notesapp.git )
+
+### Link to the working website on Glitch.com
+[Notes application](https://notes-web-application-.glitch.me/)
+
+### The link itself 
+```bash
+https://notes-web-application-.glitch.me/
+```
